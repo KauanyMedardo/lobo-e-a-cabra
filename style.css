@@ -1,8 +1,12 @@
 body{
     background-color: rgb(165, 161, 164);
     color: white;
+    
     font-family: Arial, Helvetica, sans-serif;
   border: solid white;
   line-height: 105%;
   text-align: center;
+}
+h1{
+    color: black;
 }
