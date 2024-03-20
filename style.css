@@ -6,8 +6,10 @@ body{
   border: solid rgb(20, 20, 20);
   line-height: 105%;
   text-align: center;
+  border-width: 30px;
 }
 h1{
     color: black;
     background-color: dimgrey;
+    font-size: 40px;
 }
